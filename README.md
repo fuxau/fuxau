@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @fuxau
 - 👀 I’m interested in developpement
 - 🌱 I’m currently learning python php java c++ C# ...
-- 💞️ I’m looking to collaborate on minecraft serveur
+- 💞️ I’m looking to collaborate on minecraft server
 - 📫 How to reach me 
 
 <!---
