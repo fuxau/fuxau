@@ -45,7 +45,7 @@ Il s’affiche sur ta page GitHub. Mets à jour les liens & sections "À la Une"
 
 ## 📌 Projets à la une
 
-> N’hésite pas à **épingler** (Pin) ces dépôts sur ta page pour qu’ils s’affichent en premier.
+
 
 - **[AgendaMVC_WPF](https://github.com/fuxau/AgendaMVC_WPF)** — Application agenda en **C# / WPF** (MVC).  
   _Mots-clés : WPF, MVVM/MVC, .NET, desktop_
