@@ -62,9 +62,6 @@ Il s’affiche sur ta page GitHub. Mets à jour les liens & sections "À la Une"
 - **[Calculator1](https://github.com/fuxau/Calculator1)** & **[Matias_Mavel_Calculator](https://github.com/fuxau/Matias_Mavel_Calculator)** — Calculatrices en **C#**.  
   _Mots-clés : logique, UI, WPF_
 
-- **[Terrarium (fork)](https://github.com/fuxau/Terrarium)** — Réplique de la Terre dans **Minecraft** (Java).  
-  _Mots-clés : Minecraft, Java_
-
 ---
 
 ## 📊 Stats publiques
