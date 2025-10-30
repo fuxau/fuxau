@@ -69,7 +69,7 @@ Il s’affiche sur ta page GitHub. Mets à jour les liens & sections "À la Une"
 <div align="center">
 
 <a href="https://github.com/fuxau">
-  <img src="https://github-readme-stats.vercel.app/api?username=fuxau&show_icons=true&hide_title=true&include_all_commits=true&rank_icon=github" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=fuxau&show_icons=true&hide_title=true&rank_icon=github" alt="GitHub Stats"/>
 </a>
 
 <a href="https://github.com/fuxau">
@@ -77,7 +77,7 @@ Il s’affiche sur ta page GitHub. Mets à jour les liens & sections "À la Une"
 </a>
 
 <a href="https://github.com/fuxau">
-  <img src="https://streak-stats.demolab.com?user=fuxau&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=fuxau&hide_border=true"/>
 </a>
 
 </div>
