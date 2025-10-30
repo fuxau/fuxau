@@ -77,7 +77,7 @@ Il s’affiche sur ta page GitHub. Mets à jour les liens & sections "À la Une"
 </a>
 
 <a href="https://github.com/fuxau">
-  <img src="https://streak-stats.demolab.com?user=fuxau&hide_border=true&v=2"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=fuxau&hide_border=true&v=2"/>
 </a>
 
 </div>
