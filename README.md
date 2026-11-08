@@ -43,7 +43,7 @@ Je construis des projets concrets pour progresser et partager mes découvertes.
 - **[Weather](https://github.com/fuxau/Weather)** — Petite application météo en C#  
 - **[Hangman](https://github.com/fuxau/Hangman)** — Jeu du pendu (console/desktop)  
 - **[gestionappNSC1_securedoor](https://github.com/fuxau/gestionappNSC1_securedoor)** — Appli de gestion en C#  
-- **[Calculator1](https://github.com/fuxau/Calculator1)** & **[Matias_Mavel_Calculator](https://github.com/fuxau/Matias_Mavel_Calculator)** — Calculatrices en C#  
+- **[Calculator1](https://github.com/fuxau/Calculator1)**  — Calculatrices en C#  
 
 ---
 
